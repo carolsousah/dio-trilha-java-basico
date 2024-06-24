@@ -3,10 +3,9 @@ Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o
 
 1) Crie o projeto ContaBanco que receberá dados via terminal contendo as características de conta em banco conforme atributos abaixo:
 2) Dentro do projeto, crie a classe ContaTerminal.java para realizar toda a codificação do nosso programa.
-Revise sobre regras de declaração de variáveis
+
 ![image](https://github.com/carolsousah/dio-trilha-java-basico/assets/159448667/a7fbbd0d-f4c0-4897-bcc6-9b4328c910b8)
 
-Revise sobre terminal, main args e a classe Scanner
 
 3) Permita que os dados sejam inseridos via terminal sendo que o usuário receberá a mensagem de qual informação será solicitada, exemplo:
 - Programa: "Por favor, digite o número da Agência !"
